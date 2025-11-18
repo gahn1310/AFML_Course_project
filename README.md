@@ -30,9 +30,9 @@ This work is part of the **Advanced Foundations for Machine Learning (AFML)** co
 
 ## **📁 Project Structure**
 
-`├── AF_CODE.ipynb            # Main Jupyter Notebook (full pipeline)`  
+`├── code.py            # Main Jupyter Notebook (full pipeline)`  
 `├── AFML_CourseProject.pdf   # PPT summarizing approach & results`  
-`├── Research_Paper.pdf       # IEEE-style report`  
+`├── Neuro-Symbolic Optimization with Uncertainty Quantification for Atrial fibrillation (1)       # IEEE-style report`  
 `├── README.md                # Project documentation`  
 `└── data/                    # PhysioNet data (user must download)`
 
